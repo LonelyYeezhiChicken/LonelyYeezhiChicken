@@ -1,8 +1,10 @@
 # Hi 👋, I'm Lonely Yeezhi Chicken
 ### 我就是一隻雞
-![Top Langs](https://github-readme-stats.vercel.app/api?username=LINDuke-Lin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINDuke-Lin&layout=compact)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LINDuke-Lin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LINDuke-Lin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LINDuke-Lin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LINDuke-Lin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LINDuke-Lin&theme=monokai)
 
 
 <p align="left">
