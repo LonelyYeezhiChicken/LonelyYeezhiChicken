@@ -1,10 +1,10 @@
 # Hi 👋, I'm Lonely Yeezhi Chicken
 ### 我就是一隻雞
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LINDuke-Lin&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LINDuke-Lin&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LINDuke-Lin&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LINDuke-Lin&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LINDuke-Lin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LonelyYeezhiChicken&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LonelyYeezhiChicken&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LonelyYeezhiChicken&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LonelyYeezhiChicken&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LonelyYeezhiChicken&theme=monokai)
 
 
 <p align="left">
