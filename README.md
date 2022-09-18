@@ -3,7 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LonelyYeezhiChicken&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LonelyYeezhiChicken&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LonelyYeezhiChicken&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LonelyYeezhiChicken&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LonelyYeezhiChicken&show_icons=true&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LonelyYeezhiChicken&theme=monokai)
 
 
